@@ -1,2 +1,2 @@
-## Dummy react project that i use a base start point
+## Dummy react project that i use as a base start point
 
